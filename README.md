@@ -173,7 +173,7 @@ Feel free to raise an issue in this repository or reach out directly at:
 If you use these notebooks in your research, thesis, or project, please cite this repository:
 
 ```
-Thoughtsofabhirami (2025). Molecular Interaction Fingerprinting & Pharmacophore Analysis —
+Thoughtsofabhirami (2026). Molecular Interaction Fingerprinting & Pharmacophore Analysis —
 Reproducible PLIP and RDKit Notebooks. GitHub.
 https://github.com/Thoughtsofabhirami/fingerprint-pharmacophore-toolkit
 ```
